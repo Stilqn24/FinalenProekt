@@ -1,0 +1,22 @@
+﻿h1 {
+    text-align: center;
+    color: aliceblue;
+}
+div p{
+    font-size:24px;
+    text-align:center;
+    color:white;
+    
+
+}
+ul {
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    display: flex;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
